@@ -1,4 +1,4 @@
-opengeodata-podcast
+opengeodata-podcasts
 ===================
 
-OpenGeoData podcasts
+Historical OpenGeoData podcasts
